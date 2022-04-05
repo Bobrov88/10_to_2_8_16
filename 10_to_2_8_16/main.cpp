@@ -74,4 +74,5 @@ void main()
 	transpon(number10, 8, negative);
 	cout << offset << "В шестнадцатиричной системе: ";
 	transpon(number10, 16, negative);
+	cout << endl;
 }
